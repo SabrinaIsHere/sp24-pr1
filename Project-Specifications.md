@@ -8,7 +8,7 @@ Dive into **Battleground of Bravery**, a terminal-based 2D combat simulation tha
 
 In an age where the balance between light and darkness teeters on the edge of a sword, the Battleground emerges as the ultimate arena. It is a place of power, mystery, and endless possibility, where each square is suffused with ancient power - from the whispers of the wind that can hasten allies or hinder foes, to the shadows that cloak movements in secrecy, and the radiant beams that heal or harm.
 
-## ## Gameplay Criteria and Requirements
+## Gameplay Criteria and Requirements
 
 ### Grid Configuration
 
